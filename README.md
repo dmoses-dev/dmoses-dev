@@ -1,10 +1,17 @@
-### Hi there 👋, Oluwadahunsi
-#### Junior Software Developer
+## Hi there 👋, my name is Oluwadahunsi
+### Junior Software Developer
 ![Junior Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Oluwadahunsi. I really enjoy learning languages and frameworks like Python and Django. I'm currently learning React
+I really enjoy learning languages and frameworks like Python and Django. I'm currently learning React
 
-Skills: PYTHON / DJANGO / JS / HTML / CSS / BOOTSTRAP / GIT / WORDPRESS
+### Skills:
+.  🐍 Python
+.  💻 Django
+.  🙂 JavaScript
+.  ✅ HTML
+.  😍 CSS
+.  🤩 Bootstrap
+.  🎨 WordPress
 
 - 🌱 I’m currently learning React 
 
